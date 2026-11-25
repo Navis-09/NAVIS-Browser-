@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.NavisBrowser" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#202124</item>
+        <item name="colorPrimaryDark">#17181A</item>
+        <item name="colorAccent">#8AB4F8</item>
+        <item name="android:windowBackground">#202124</item>
+        <item name="android:statusBarColor">#202124</item>
+        <item name="android:navigationBarColor">#202124</item>
+    </style>
+</resources>
